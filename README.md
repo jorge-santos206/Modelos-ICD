@@ -1,2 +1,7 @@
 # Modelos-ICD
-aplicação dos modelos :  random tree e k-nn
+
+Aplicação dos modelos :  Random tree e k-nn para classificar pacientes com apneia do sono, insônia ou saudáveis. 
+
+
+
+
